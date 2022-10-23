@@ -1,5 +1,8 @@
 // pratica 1
 
-    function helloWorld () {}
+    function helloWorld () {   
+        console.log ("hello, world! :D");
+    }
+ 
+    helloWorld ()
 
-    console.log ("hello, world! :D");
